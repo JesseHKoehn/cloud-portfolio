@@ -6,7 +6,7 @@ Currently learning Azure, DevOps, and cloud infrastructure.
 Documenting everything I build and learn along the way.
 
 ## 🎯 Goals
-- Earn AZ-900 certification
+- Completed: AZ-900 certification
 - Land a junior cloud role (Support, Engineer, or SRE)
 - Build real-world projects using Azure
 
